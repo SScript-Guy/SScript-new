@@ -12,6 +12,7 @@ This used to be viable to use on your FANKAN mods like so:
 `haxelib install SScript`
 
 But now if you REALLY want to use it, try doing this, like so:
+
 `haxelib git SScript https://github.com/SScript-Guy/SScript-new`
 
 Funkin' isn't going anywhere!
