@@ -1,5 +1,6 @@
 # SScript
 
+Apparently being on the side of "morality" is telling people to kill themselves and posting disturbing imagery here. I'm just keeping it real.
 SScript is an easy to use Haxe script parser and interpreter, including class support and more. It aims to support all of the Haxe structures while being fast and easy to use.
 
 <details>
