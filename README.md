@@ -8,9 +8,13 @@ SScript is an easy to use Haxe script parser and interpreter, including class su
 </details>
 
 ## Installation
+This used to be viable to use on your FANKAN mods like so:
 `haxelib install SScript`
 
-Enter this command in command prompt to get the latest release from Haxe library.
+But now if you REALLY want to use it, try doing this, like so:
+`haxelib git SScript https://github.com/SScript-Guy/SScript-new`
+
+Funkin' isn't going anywhere!
 
 ------------
 
